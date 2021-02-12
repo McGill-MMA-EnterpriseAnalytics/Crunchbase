@@ -18,7 +18,7 @@ Look at employee data stats/diversity.
 We can do labelling on our own at first for the super verticals (ie. cybersecurity) -> we need to 
 identify these from the groups_list we can do clustered semi-supervised ml for this.
 
-We can also use Casual ML to find causal relationships between success.
+We can also use Casual ML to find causal relationships between failure.
 
 TPOT can also be used to create a baseline model.
 
