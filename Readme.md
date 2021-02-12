@@ -1,5 +1,5 @@
 # Data:
-The data contains startups from crunchbase. The data is greatly unbalanced (Most startups fail and are never reported on here). Startups have information such as amount raised, whether or not they are still operating, acquired as well as descriptions, categories.
+The data contains startups from crunchbase. The data is greatly unbalanced (Alot of startups fail and are never reported on here). Startups have information such as amount raised, whether or not they are still operating, acquired as well as descriptions, categories.
 
 The folder also contains employee and investor data. 
 
