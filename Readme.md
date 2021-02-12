@@ -23,4 +23,4 @@ We can also use Casual ML to find causal relationships between success.
 TPOT can also be used to create a baseline model.
 
 
-What we want to perdict is: Acquired by Large Corp, Acquired, Cybersecurity, Unicorn (raised a lot) 
+What we want to perdict is: Acquired by Large Corp, Acquired, Super Vertical (ie. Cybersecurity), Unicorn (raised a lot) 
