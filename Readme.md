@@ -1,10 +1,10 @@
-###Data:
+# Data:
 The data contains startups from crunchbase. The data is greatly unbalanced. Considering most startups fail, this is not represented in the data. Startups have information such as amount raised, whether or not they are still operating, acquired as well as descriptions, categories.
 
 The folder also contains employee and investor data. 
 
 
-###Preprocessing:
+# Preprocessing:
 Startups need to be companies.
  In addition we will need to find the acquired companies for companies with status “acquired” for multi-label classification.
 In addition we should see if removing the date has any effect. 
@@ -13,7 +13,7 @@ We must find a test dataset that is small companies that just got acquired. Red 
 We must also create features such as potential competition stats.
 Look at employee data stats/diversity.
 
-###Prediction: 
+# Prediction: 
 
 We can do labelling on our own at first for the super verticals (ie. cybersecurity) -> we need to 
 identify these from the groups_list we can do clustered semi-supervised ml for this.
