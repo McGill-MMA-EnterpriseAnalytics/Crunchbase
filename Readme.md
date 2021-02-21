@@ -16,7 +16,7 @@ We must also create features such as potential competition stats.
 Look at employee data stats/diversity.
 
 # Exploration
-<img src="crunchbase.gif" width="1000" height="1000"/>
+<img src="crunchbase.gif"/>
 
 # Prediction: 
 
