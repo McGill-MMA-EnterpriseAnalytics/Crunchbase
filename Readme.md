@@ -30,7 +30,7 @@ TPOT can also be used to create a baseline model.
 What we want to perdict is: Status, Super Vertical (ie. Cybersecurity)
 
 # Results
-We conclude educaton, location, founded timing, and verticals indeed have a significant effect on the funding and operating status. We use Causalml as well as Randomforest feature importance to visualize this. We found using clustered semi-supervised learning did not result in good results.
+We conclude educaton, location, founded timing, and verticals indeed have a significant effect on the funding and operating status. We use Causalml as well as Randomforest feature importance to visualize this. We found using clustered semi-supervised learning did not result in good results. Recall was the most important accuracy measure, however optimizing for recall ended up having a poor performance on our test set. We conclude that more data needs to be collected for a precise model.
 
 Sample Visualization:
 <img src="shap.png"/>
