@@ -16,7 +16,7 @@ Look at employee data stats/diversity.
 
 # Exploration
 You can check out our app for data exploration (the use of the library streamlit which is used is heavily inspired by another group's app). Run it by streamlit run profile_report.py 
-<img src="crunchbase.gif"/>
+<center><img src="crunchbase.gif"/></center>
 
 # Prediction
 
