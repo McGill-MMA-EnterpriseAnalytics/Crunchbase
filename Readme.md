@@ -19,6 +19,8 @@ You can check out our app for data exploration (the use of the library streamlit
 <p align="center">
 <img src="crunchbase.gif"/>
 </p>
+
+
 # Prediction
 
 We can do labelling on our own at first for the super verticals (ie. cybersecurity) -> we need to 
