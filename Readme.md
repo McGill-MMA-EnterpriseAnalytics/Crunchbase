@@ -14,6 +14,9 @@ We must find a test dataset that is small companies that just got acquired. Red 
 We must also create features such as potential competition stats.
 Look at employee data stats/diversity.
 
+# Exploration
+![](crunchbase.gif)
+
 # Prediction: 
 
 We can do labelling on our own at first for the super verticals (ie. cybersecurity) -> we need to 
