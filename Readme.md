@@ -16,9 +16,9 @@ Look at employee data stats/diversity.
 
 # Exploration
 You can check out our app for data exploration (the use of the library streamlit which is used is heavily inspired by another group's app). Run it by streamlit run profile_report.py 
-
-<img align="center" src="crunchbase.gif"/>
-
+<p align="center">
+<img src="crunchbase.gif"/>
+</p>
 # Prediction
 
 We can do labelling on our own at first for the super verticals (ie. cybersecurity) -> we need to 
