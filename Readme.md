@@ -29,3 +29,6 @@ TPOT can also be used to create a baseline model.
 
 What we want to perdict is: Status, Super Vertical (ie. Cybersecurity)
 
+# Results
+<img src="shap"/>
+
