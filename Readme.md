@@ -11,7 +11,7 @@ Startups need to be companies.
  In addition we will need to find the acquired companies for companies with status “acquired” for multi-label classification.
 In addition we should see if removing the date has any effect. 
 Also we need to ensure that company size must not be included as this may indicate that they will be acquired. 
-We must find a test dataset that is small companies that just got acquired. Red labels are the target labels.
+We must find a test dataset that is small companies that just got acquired. 
 We must also create features such as potential competition stats.
 Look at employee data stats/diversity.
 
